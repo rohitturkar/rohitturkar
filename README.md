@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rohitturkar.netlify.app/](https://rohitturkar.netlify.app/)
 
-- 📫 How to reach me **turkarcontact13@gmail.com**
+- 📫 How to reach me **rohittur2002@gmail.com**
 
 - ⚡ Fun fact **I love to code and I love Tea**
 
