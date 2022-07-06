@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Turkar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Frontend **LoGrow Marketplace**
 
 - 🌱 I’m currently learning **ReactJs,Nodejs**
 
