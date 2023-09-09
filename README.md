@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India I love to code and I love Chai 🍵</h3>
 
 
-- 🌱 I’m currently learning **ReactJs,Nodejs**
-
-- 👨‍💻 All of my projects are available at [https://rohitturkar.netlify.app/](https://rohitturkar.netlify.app/)
+- ❤️ React.js , Next.js  **
 
 - 📫 How to reach me **rohittur2002@gmail.com**
 
