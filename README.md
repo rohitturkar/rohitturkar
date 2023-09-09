@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p>React.js, Redux, Flux Next.js, Javascript, ES6, TypeScript, MongoDB, SQL, Tailwind CSS, CSS, HTML </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitturkar&show_icons=true&locale=en" alt="rohitturkar" /></p>
+
 
 <br>
 
