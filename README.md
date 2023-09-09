@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Turkar</h1>
-<h3 align="center">A passionate frontend developer from India I love to code and I love Chai 🍵</h3>
+<h3 align="center">A passionate Software Engineer from India I love to code and I love Chai 🍵</h3>
 
 
 - 🌱 I’m currently learning **ReactJs,Nodejs**
