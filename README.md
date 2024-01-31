@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India I love to code and I love Chai 🍵</h3>
 
 
-- ❤️ React.js , Next.js  **
+- ❤️ React.js , Next.js  
 
 - 📫 How to reach me **rohittur2002@gmail.com**
 
