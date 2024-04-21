@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from India I love to code and I love Chai 🍵</h3>
 
 
-- ❤️ React.js , Next.js  
+- ❤️ React.js , Next.js , Typescript 
 
 - 📫 How to reach me **rohittur2002@gmail.com**
 
@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p>React.js, Redux, Flux Next.js, Javascript, ES6, TypeScript, MongoDB, SQL, Tailwind CSS, CSS, HTML </p>
+<p>React.js, Redux,Next.js, Javascript, EcmaScript6, TypeScript,GO Language, MongoDB,Tailwind CSS, CSS, HTML </p>
 
 
 
