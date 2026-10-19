@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Turkar</h1>
-<h3 align="center">A Full Stack Developer experienced in building scalable, high-performance web applications across frontend, backend, and
+<h3 align="left">A Full Stack Developer experienced in building scalable, high-performance web applications across frontend, backend, and
 infrastructure. Skilled in system design, end-to-end architecture, API integration, and database management. Focused on
 writing clean, secure, and optimized code to deliver reliable, production-ready solutions.</h3>
 
