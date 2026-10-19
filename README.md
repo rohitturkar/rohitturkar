@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rohit Turkar</h1>
-<h3 align="center">A passionate Software Engineer from India I love to code and I love Chai 🍵</h3>
+<h3 align="center">A Full Stack Developer experienced in building scalable, high-performance web applications across frontend, backend, and
+infrastructure. Skilled in system design, end-to-end architecture, API integration, and database management. Focused on
+writing clean, secure, and optimized code to deliver reliable, production-ready solutions.</h3>
 
 
-- ❤️ React.js , Next.js , Typescript 
+- ❤️ React.js , Next.js , Typescript , Nodejs, Sql, PostgreSQL
 
 - 📫 How to reach me **rohittur2002@gmail.com**
 
